@@ -18,7 +18,9 @@ European Data Protection Board (EDPB) o Comité Europeo de Protección de Datos.
 
 
 ***
-actividad 1.3
+
+#actividad 
+1.3
 
 **1. Artículo 1° — Derechos fundamentales y cero discriminación** Este mandato asegura que todo individuo goza de los derechos humanos respaldados tanto por nuestra Constitución como por los tratados internacionales. Además, exige a las autoridades el deber absoluto de respetar, promover y salvaguardar dichas garantías. También prohíbe estrictamente cualquier forma de discriminación —ya sea por origen étnico, género, edad, discapacidad, religión, orientación sexual o estatus socioeconómico— que atente contra la dignidad de las personas.
 
@@ -39,10 +41,10 @@ actividad 1.3
 
 - **En resumen:** Tu información personal es tuya; la ley la protege y te permite tener el control sobre los datos que otros tienen sobre ti.
 ***
-Actividad 1.4
+#Actividad 1.4
 ![[Pasted image 20260907102624.png]]
 ***
-Actividad 1.5
+#Actividad 1.5
 
 | Problema                                | Iniciativas relacionadas    | ¿Qué buscan hacer?                                                                                            |
 | --------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
