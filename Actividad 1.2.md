@@ -52,6 +52,26 @@ European Data Protection Board (EDPB) o Comité Europeo de Protección de Datos.
 | ©️ **Derechos de autor**                | 1, 4 y 6                    | Determinar qué pasa con las obras creadas o modificadas mediante IA y quién puede tener derechos sobre ellas. |
 | 👨‍🎨 **Protección laboral**            | 2 y 5                       | Evitar que la IA sustituya a trabajadores creativos sin reglas, consentimiento o compensación.                |
 | ⚖️ **Sanciones por uso indebido de IA** | 6 y, en ciertos aspectos, 1 | Establecer consecuencias legales cuando la IA se utilice para vulnerar derechos de otras personas.            |
+|                                         |                             |                                                                                                               |
 
 
 ***
+Actividad 1.6
+
+
+
+
+
+
+![[Pasted image 20260910103109.png]]
+
+
+***
+
+
+
+
+
+
+
+
